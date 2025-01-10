@@ -98,7 +98,7 @@ Cropped Sub-Objects**: Saved in the `subobjects/` folder.
 
 ## Authors
 
-Daksh Dubey-jaydubey0039@gmail.com
+Daksh Dubey- jaydubey0039@gmail.com
 contact-7016783381
 
 
