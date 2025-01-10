@@ -72,9 +72,13 @@ This repository contains the implementation for the AI Internship assessment tas
 
 ## Benchmarking and Results
 
-- **Inference Speed**: Achieved [30] FPS .
+Visual Results
+![download](https://github.com/user-attachments/assets/c1e41b36-d82c-43ca-bb60-f0b32370a561)
+![download (2)](https://github.com/user-attachments/assets/316270fc-d439-4a80-bd9f-ff08f511c316)
+The system successfully detected multiple objects (e.g., persons, cars) and associated sub-objects (e.g., components) in a forest scene, as shown in the image above. Bounding boxes and labels clearly indicate the confidence scores and hierarchical associations.
+- **Inference Speed**: Achieved [7-14] FPS .
 - **Sample JSON Outputs**: Included in the `outputs/` folder.
-- **Cropped Sub-Objects**: Saved in the `subobjects/` folder.
+Cropped Sub-Objects**: Saved in the `subobjects/` folder.
 
 ## Deliverables
 
