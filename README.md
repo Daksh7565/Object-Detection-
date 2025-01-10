@@ -95,14 +95,11 @@ Cropped Sub-Objects**: Saved in the `subobjects/` folder.
 - Ensure that the system handles edge cases like occlusion and overlapping objects.
 - Focus on clean, modular, and well-documented code.
 
-## License
-
-Specify the license under which your project is distributed (e.g., MIT License).
 
 ## Authors
 
-Provide the names or contact details of the contributors.
+Daksh Dubey-jaydubey0039@gmail.com
+contact-7016783381
 
----
 
-Feel free to update this README as needed to reflect changes in the project or additional instructions.
+
